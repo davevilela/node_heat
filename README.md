@@ -1,6 +1,6 @@
-# NLW HEAT
+# NLW HEAT - Node track
 
-this project was created for study purposes
+**this project was created for study purposes**
 
 ### To run this project, follow these steps:
 
@@ -17,6 +17,7 @@ or, if you want to generate migration files:
 
 `yarn prisma migrate dev`
 
+---
 ### TODO
 
 - [x] Implement user authentication
